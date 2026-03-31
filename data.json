@@ -2,7 +2,7 @@
   {
     "id": "101",
     "name": "Rohit Pal",
-    "price": 5000,
+    "year": 2012,
     "color": "D",
     "image": "https://picsum.photos/800/400?random=101",
     "thumbnail": "https://picsum.photos/300/400?random=101",
@@ -16,7 +16,7 @@
   {
     "id": "102",
     "name": "Ajay Singh",
-    "price": 7000,
+    "year": 2013,
     "color": "E",
     "image": "https://picsum.photos/800/400?random=102",
     "thumbnail": "https://picsum.photos/300/400?random=102",
