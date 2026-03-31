@@ -43,7 +43,7 @@
   }
   ,
   {
-    "id": "103",
+    "id": "104",
     "name": "Diamond C",
     "price": 9000,
     "color": "F",
@@ -58,7 +58,7 @@
   }
   ,
   {
-    "id": "103",
+    "id": "105",
     "name": "Diamond C",
     "price": 9000,
     "color": "F",
@@ -73,7 +73,7 @@
   }
   ,
   {
-    "id": "103",
+    "id": "106",
     "name": "Diamond C",
     "price": 9000,
     "color": "F",
@@ -86,5 +86,19 @@
       "480p": "#"
     }
   }
-   
+    ,
+  {
+    "id": "107",
+    "name": "Testing C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
 ]
