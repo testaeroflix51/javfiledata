@@ -1,0 +1,494 @@
+[
+  {
+    "id": "101",
+    "name": "Rohit Pal",
+    "price": 5000,
+    "color": "D",
+    "image": "https://picsum.photos/800/400?random=101",
+    "thumbnail": "https://picsum.photos/300/400?random=101",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "720p": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "480p": ""
+    }
+  },
+  {
+    "id": "102",
+    "name": "Diamond B",
+    "price": 7000,
+    "color": "E",
+    "image": "https://picsum.photos/800/400?random=102",
+    "thumbnail": "https://picsum.photos/300/400?random=102",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  },
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Diamond C",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+  ,
+  {
+    "id": "103",
+    "name": "Ajay",
+    "price": 9000,
+    "color": "F",
+    "image": "https://picsum.photos/800/400?random=103",
+    "thumbnail": "https://picsum.photos/300/400?random=103",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "downloads": {
+      "1080p": "#",
+      "720p": "#",
+      "480p": "#"
+    }
+  }
+]
