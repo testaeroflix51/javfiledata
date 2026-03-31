@@ -59,7 +59,7 @@
   ,
   {
     "id": "105",
-    "name": "Diamond C",
+    "name": "NOSE C",
     "price": 9000,
     "color": "F",
     "image": "https://picsum.photos/800/400?random=103",
@@ -74,7 +74,7 @@
   ,
   {
     "id": "106",
-    "name": "Diamond C",
+    "name": "EYES C",
     "price": 9000,
     "color": "F",
     "image": "https://picsum.photos/800/400?random=103",
@@ -89,7 +89,7 @@
     ,
   {
     "id": "107",
-    "name": "Testing C",
+    "name": "Ears 20",
     "price": 9000,
     "color": "F",
     "image": "https://picsum.photos/800/400?random=103",
