@@ -1,104 +1,16 @@
 [
   {
     "id": "101",
-    "name": "Rohit Pal",
-    "year": 2012,
-    "language": "D",
-    "image": "https://picsum.photos/800/400?random=101",
-    "thumbnail": "https://picsum.photos/300/400?random=101",
-    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "name": "Gf Bf Daddy",
+    "year": 2024,
+    "language": "Japanese",
+    "image": "https://img-place.com/302gq66hka3w_t.jpg",
+    "thumbnail": "https://img-place.com/302gq66hka3w_t.jpg",
+    "video": "https://byselapuix.com/e/302gq66hka3w",
     "downloads": {
-      "1080p": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-      "720p": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "1080p": "https://bestfile.io/en/14rs1auGyVGCh2E/file",
+      "720p":  "",
       "480p": ""
     }
-  },
-  {
-    "id": "102",
-    "name": "Ajay Singh",
-    "year": 2013,
-    "language": "E",
-    "image": "https://picsum.photos/800/400?random=102",
-    "thumbnail": "https://picsum.photos/300/400?random=102",
-    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "downloads": {
-      "1080p": "#",
-      "720p": "#",
-      "480p": "#"
-    }
-  },
-  {
-    "id": "103",
-    "name": "Diamond C",
-    "year": 9000,
-    "language": "F",
-    "image": "https://picsum.photos/800/400?random=103",
-    "thumbnail": "https://picsum.photos/300/400?random=103",
-    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "downloads": {
-      "1080p": "#",
-      "720p": "#",
-      "480p": "#"
-    }
-  }
-  ,
-  {
-    "id": "104",
-    "name": "Diamond C",
-    "year": 9000,
-    "language": "F",
-    "image": "https://picsum.photos/800/400?random=103",
-    "thumbnail": "https://picsum.photos/300/400?random=103",
-    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "downloads": {
-      "1080p": "#",
-      "720p": "#",
-      "480p": "#"
-    }
-  }
-  ,
-  {
-    "id": "105",
-    "name": "NOSE C",
-    "year": 9000,
-    "language": "F",
-    "image": "https://picsum.photos/800/400?random=103",
-    "thumbnail": "https://picsum.photos/300/400?random=103",
-    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "downloads": {
-      "1080p": "#",
-      "720p": "#",
-      "480p": "#"
-    }
-  }
-  ,
-  {
-    "id": "106",
-    "name": "EYES C",
-    "year": 9000,
-    "language": "F",
-    "image": "https://picsum.photos/800/400?random=103",
-    "thumbnail": "https://picsum.photos/300/400?random=103",
-    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "downloads": {
-      "1080p": "#",
-      "720p": "#",
-      "480p": "#"
-    }
-  }
-    ,
-  {
-    "id": "107",
-    "name": "Ears 20",
-    "year": 9000,
-    "language": "F",
-    "image": "https://picsum.photos/800/400?random=103",
-    "thumbnail": "https://picsum.photos/300/400?random=103",
-    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "downloads": {
-      "1080p": "#",
-      "720p": "#",
-      "480p": "#"
-    }
-  }
+  } 
 ]
