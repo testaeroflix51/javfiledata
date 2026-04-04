@@ -12,5 +12,33 @@
       "720p":  "",
       "480p": ""
     }
+  },
+  {
+    "id": "102",
+    "name": "School me Semester ki Exam",
+    "year": 2025,
+    "language": "Unknown",
+    "image": "https://i.ibb.co/20BsvRhw/Schhol-Semester.png",
+    "thumbnail": "https://i.ibb.co/20BsvRhw/Schhol-Semester.png",
+    "video": "https://byselapuix.com/e/t8rt1q8wfueb",
+    "downloads": {
+      "1080p": "https://bestfile.io/5a73bFaZ4SEXtRm/file",
+      "720p":  "",
+      "480p": ""
+    }
+  } ,
+  {
+    "id": "103",
+    "name": "Dost ke Ghar Padhai",
+    "year": 2025,
+    "language": "Unknown",
+    "image": "https://i.ibb.co/RT8Ckvb2/Dost-ke-Ghar-Padhai.png",
+    "thumbnail": "https://i.ibb.co/nsnfnWZQ/Video-001.png",
+    "video": "https://byselapuix.com/e/lr488dt3cpfp",
+    "downloads": {
+      "1080p": "https://bestfile.io/PcE3l9NpjoaZiPA/file",
+      "720p":  "",
+      "480p": ""
+    }
   } 
 ]
